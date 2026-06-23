@@ -46,6 +46,9 @@ streamlit run TS_app.py
 
 ## Authors
 Benmeddour Feriel
+
 Naci Roufaida
+
 Turqui Ismahene
+
 Benyamina Assia
