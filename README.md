@@ -39,8 +39,10 @@ The goal is to analyze and forecast time series data in an interactive and visua
 1. Install dependencies:
 pip install -r requirements.txt
 
-2.Run the app:
+2. Run the app:
 streamlit run TS_app.py
+
+---
 
 ## Authors
 Benmeddour Feriel
