@@ -40,7 +40,7 @@ The goal is to analyze and forecast time series data in an interactive and visua
 pip install -r requirements.txt
 
 2. Run the app:
-streamlit run TS_app.py
+streamlit run Group_Project_Time_Series_Analysis_FIXEDd_app.py
 
 ---
 
